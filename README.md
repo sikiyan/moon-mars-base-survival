@@ -1,3 +1,7 @@
+## Play Online
+
+[Play Moon & Mars Base Survival](https://sikiyan.github.io/moon-mars-base-survival/)
+
 # Moon & Mars Base Survival
 
 **NASA Space Apps Challenge 2026 — Build a Junior Astronaut Mission Trainer**  
