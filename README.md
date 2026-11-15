@@ -40,6 +40,9 @@ The game's **NASA science** panel contains brief explanations and primary NASA l
 - [NASA Perseverance science](https://science.nasa.gov/mission/mars-2020-perseverance/science-highlights/) — evidence of ancient Martian environments.
 - [NASA Sounds of Mars](https://science.nasa.gov/mission/mars-2020-perseverance/sounds-of-mars/) — atmospheric sound on Mars.
 - [NASA lunar exosphere](https://science.nasa.gov/moon/lunar-atmosphere/) — near-vacuum conditions on the Moon.
+- [NASA Growing Plants in Space](https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/) — plant-growth research for future space exploration.
+- [NASA Adds New Science Investigations for Moon Base](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/) — planned science investigations for lunar exploration.
+- [NASA Radiation Environment — Working on the Moon](https://history.nasa.gov/wp-content/uploads/static/history/alsj/WOTM/WOTM-Radiation.html) — lunar radiation hazards and crew protection.
 
 ### Scientific scope
 
