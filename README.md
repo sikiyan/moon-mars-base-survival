@@ -65,9 +65,19 @@ The generated artwork and source code are included in the game HTML. Read `AI_DI
 
 - `index.html` — complete playable game, with embedded illustrations
 - `README.md` — instructions, mechanics and sources
-- `SUBMISSION_TEXT.md` — ready-to-adapt project submission text
 - `AI_DISCLOSURE.md` — AI contribution record
 
 ## Testing and limitations
 
 The game is intended for a desktop browser. It supports smaller layouts, but the visual placement of equipment buttons depends on viewport size. Audio requires browser permission initiated by a player click. Game data is held in memory and resets when the page reloads. External source links require internet access. A final manual playthrough is recommended before submission.
+
+## License
+
+The original source code of Moon & Mars Base Survival
+is licensed under the GNU General Public License v3.0
+(GPL-3.0-only).
+
+See the LICENSE file for details.
+
+AI-generated illustrations and third-party materials
+are identified separately.
